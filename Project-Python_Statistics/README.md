@@ -9,7 +9,8 @@ Specifically generated a list of ebike stations in limerick, Ireland (23 station
 Python code in notebook [city_bikes.ipyb](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Project-Python_Statistics/notebooks/city_bikes.ipynb)
 
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/e36d3413-72de-42ad-87d6-cf41b7d51964)
-                  All ebike Stations in Limerick, Ireland as of June 3, 2023
+
+                  `All ebike Stations in Limerick, Ireland as of June 3, 2023`
 
 
 # Step 2: FourSquare and YELP API's
@@ -25,7 +26,7 @@ Result generated from Yelp POI results produced more valuable result compared to
 During EDA, various visualization techniques were applied to explore the data and extract meaningful information
 Python code in notebook [joining_data.ipynb](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Project-Python_Statistics/notebooks/joining_data.ipynb)
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/6e017eed-20a8-4730-8c9b-215c6dff17cd)
-                             Histogram of all features
+                           `  Histogram of all features`
 
 ## Challenges 
 (discuss challenges you faced in the project)
