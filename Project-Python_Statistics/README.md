@@ -26,7 +26,8 @@ Result generated from Yelp POI results produced more valuable result compared to
 During EDA, various visualization techniques were applied to explore the data and extract meaningful information
 Python code in notebook [joining_data.ipynb](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Project-Python_Statistics/notebooks/joining_data.ipynb)
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/6e017eed-20a8-4730-8c9b-215c6dff17cd)
-                           `  Histogram of all features`
+                          
+                                             `  Histogram of all features`
 
 ## Challenges 
 (discuss challenges you faced in the project)
