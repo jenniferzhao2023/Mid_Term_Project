@@ -7,6 +7,7 @@ Pull data from 3 API's, merge them then model them to look for any statistical r
 Grab live data from CityBikes API
 Specifically generated a list of ebike stations in limerick, Ireland (23 stations found)
 Python code in notebook [city_bikes.ipyb](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Project-Python_Statistics/notebooks/city_bikes.ipynb)
+
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/e36d3413-72de-42ad-87d6-cf41b7d51964)
 
 
