@@ -1,0 +1,21 @@
+review_count,rating,distance,title,address1
+16.0,4.5,1037.551982419555,Italian,1460 Avenue Maguire
+11.0,4.5,882.0633796247004,French,1384 Chemin Sainte-Foy
+15.0,4.5,825.002748228319,Pizza,1332 Avenue Maguire
+15.0,4.0,772.7694117304358,Modern European,867 Avenue Myrand
+8.0,4.5,902.4714457648585,Bagels,1400 Avenue Maguire
+9.0,3.0,754.0796833977537,Breakfast & Brunch,859 Avenue Myrand
+9.0,4.5,943.5035026647703,Bakeries,1646 Chemin Saint-Louis
+14.0,3.5,892.2900066116408,Pubs,1380 Chemin Sainte-Foy
+8.0,3.5,1208.6955844954336,Gastropubs,2325 Rue de l'Université
+6.0,4.0,758.6386192048767,American (Traditional),1308 Avenue Maguire
+6.0,5.0,1050.8546265839059,Parks,1215 Grande Allée O
+2.0,4.5,724.7310870313609,Breakfast & Brunch,1292 Avenue Maguire
+8.0,3.5,937.4744841119892,Beer Bar,814 Avenue Myrand
+6.0,4.5,719.6560674975409,Tapas/Small Plates,1297 Avenue Maguire
+12.0,3.5,830.8661806894513,Burgers,1360 Avenue Maguire
+3.0,4.0,863.9174870084123,French,840 Avenue Myrand
+7.0,3.5,997.1518692192968,Fast Food,1983 Rue de Bergerville
+1.0,5.0,768.4809237008187,Canadian (New),1314 Avenue Maguire
+5.0,3.5,925.0066281428002,Seafood,1626 Chemin Saint-Louis
+3.0,4.5,738.2994111347346,Bakeries,1483 Chemin Sainte Foy
