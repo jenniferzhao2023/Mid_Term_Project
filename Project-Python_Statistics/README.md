@@ -29,8 +29,16 @@ Python code in notebook [joining_data.ipynb](https://github.com/Jagunmolu-dev/LI
                           
                                              `  Histogram of all features`
 
+![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/32207823-57b4-4fd2-8640-2f92415a20ec)
+                              Heatmap Diagram 
+
 ## Challenges 
-(discuss challenges you faced in the project)
+- Getting all POIs and performing analysis on all the stations of the cit bikes due to time constraint
+- Unclear questions on how to proceed in joining/ merging  all the data together
+- Poor API Documentation
+- Inconsistent naming of columns gotten from the api, i had to rename columms before merging data
 
 ## Future Goals
-(what would you do if you had more time?)
+- Get all data from the POI close to each station to be able to better make predictions 
+- Document functions and my code for future reference and reusability
+- 
