@@ -1,6 +1,6 @@
 # Final-Project-Tableau
 ## Project/Goals
-Review the file [faa_data_subset.xls](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Final-Project-Tableau/Project%20Files%20-%20Tableau%20-%20Option%202/faa_data_subset.xlsx) to demonstrate insights from the data
+Review the file [faa_data_subset](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Final-Project-Tableau/Project%20Files%20-%20Tableau%20-%20Option%202/faa_data_subset.xlsx) to demonstrate insights from the data
 
 ## Process
 ### (your step 1)
