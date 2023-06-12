@@ -3,8 +3,9 @@
 Review the file [faa_data_subset](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Final-Project-Tableau/Project%20Files%20-%20Tableau%20-%20Option%202/faa_data_subset.xlsx) to demonstrate insights from the data
 
 ## Process
-### (your step 1)
-### (your step 2)
+> Analyzing to check that the colums has the right data types
+> Did an overview to study each columns and the relationship between them
+> Created hierarchy to group data 
 
 ## Results
 Option 2 was selected and the data set used was
