@@ -1,6 +1,6 @@
 # Final-Project-Tableau
 ## Project/Goals
-Review the file [faa_data_subset.xls]([faa_data_subset.xls](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Final-Project-Tableau/Project%20Files%20-%20Tableau%20-%20Option%202/faa_data_subset.xlsx) ro demonstrate insights fro the data
+Review the file [faa_data_subset.xls](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/blob/main/Final-Project-Tableau/Project%20Files%20-%20Tableau%20-%20Option%202/faa_data_subset.xlsx) to demonstrate insights from the data
 
 ## Process
 ### (your step 1)
@@ -9,7 +9,7 @@ Review the file [faa_data_subset.xls]([faa_data_subset.xls](https://github.com/J
 ## Results
 Option 2 was selected and the data set used was
 
-1. SHow the number of strikes per State
+1. Show the number of strikes per State
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/73fdfaf9-edff-468d-bb8d-6a33989eb176)
 
 2. A heat diagram showing the period of the day with the corresponding number of strikes
