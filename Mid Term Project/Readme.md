@@ -1,9 +1,9 @@
 # Mid-Term Project-
 
 ## Project/Goals
-> Set a well-defined problem with impact clearly identified;
-> Execute the data analysis techniques learned throughout the program;
-> Demonstrate insights and potential solutions via a dashboard that incorporates best practices of data visualization and is appropriate for a non-technical audience;
+> Set a well-defined problem with impact clearly identified
+> Execute the data analysis techniques learned throughout the program
+> Demonstrate insights and potential solutions via a dashboard that incorporates best practices of data visualization and is appropriate for a non-technical audience
 > Create instructions for users to interact with the dashboard.
 
 ## Process
