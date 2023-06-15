@@ -9,13 +9,13 @@
 ## Process
 ### Got the data from [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?select=bike_buyers_clean.csv)
 ### Performed Exploratory data analysis on the dataset to understand what the dataset is all about
-### Compared each of the variables to know which demography are more likely to purchase a bike 
+### Compared each of the variables to know which demography is more likely to purchase a bike 
 
 ## Results
 > Comparing all factors to show demographics of who is likely to purchase a bike
 ![output 1](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/be4b8839-f7ac-4845-8ffe-9c852142b4ec)
 
-From the output above we can see that those with a lesser commute time are more likely to purchase a bike than those with a longer commute time which is clearly shown in the image below
+> From the output above we can see that those with a lesser commute time are more likely to purchase a bike than those with a longer commute time which is clearly shown in the image below
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/b8cc23fc-9d03-425e-bac8-e6b1e4dd7212)
 
 > Compared the count of those who purchased a bike by the income
