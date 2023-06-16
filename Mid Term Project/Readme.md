@@ -1,17 +1,42 @@
 # Mid-Term Project-
 
 ## Project/Goals
-> Set a well-defined problem with impact clearly identified
-> Execute the data analysis techniques learned throughout the program
-> Demonstrate insights and potential solutions via a dashboard that incorporates best practices of data visualization and is appropriate for a non-technical audience
-> Create instructions for users to interact with the dashboard.
+> This project is aim to analyze the bike buyer dataset that includes individuals' demographic attributes (marital status, gender, age, and children), financial status (income and home ownership), education, occupation, number of cars, commute distance, region, and whether they purchased a bike or not.
+
+our project goal is to find whether is there any column or all columns that have a connection or causation to the “Purchased bike” column. Make valuable insights for companies in the bike industry to better understand their customers and improve their marketing and product strategies.
+
 
 ## Process
-### Got the data from [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?select=bike_buyers_clean.csv)
-### Performed Exploratory data analysis on the dataset to understand what the dataset is all about
+### Got the data from [Kaggle](https://www.kaggle.com/datasets/heeraldedhia/bike-buyers?select=bike_buyers.csv)
+
+
+1. Got the data from Kaggle and explored data to understand what the dataset is all about
+
+2. Performed Data Cleaning: During the dataset exploration, I noticed that this dataset is already looking clean but still some null values can be observed. I utilized Jupyter Notebook to inspect the presence of null values.  Upon investigation, I discovered that the "Price" column did not contain any null values. However, I did identify null values in the "Review Score Rating" and "Host Since" columns. In this case, I made the decision to keep the null values rather than removing them.
+
+3.	Data visualization and make insights: Throughout the project, I created different visualizations to gain insights into thelistings dataset. 
+
+
+
 ### Compared each of the variables to know which demography is more likely to purchase a bike 
 
 ## Results
+
+We conducted an analysis to determine the relationship between each column and the likelihood of purchasing more bikes.
+
+By targeting specific demographics and adapting to market trends, bike retailers and marketers can enhance their ability to attract and retain customers in a competitive market. Recommendations for bike retailers or marketers based on the insights are as follows:
+
+1.Target Specific Demographic Groups: Focus marketing efforts on middle-aged individuals who have fewer children and less cars, as they may have more time and disposable income for leisure activities like biking.
+
+2.Consider targeting individuals with higher levels of education, as they may value the health and environmental benefits of cycling.
+
+3.Emphasize Professional Occupations: Tailor marketing messages and campaigns towards individuals with professional occupations, as they may have higher purchasing power and be more inclined to invest in quality bikes and accessories.
+
+4.Highlight Commute-Friendly Features: Promote bikes that are suitable for shorter commutes, emphasizing their convenience, eco-friendliness, and potential cost savings compared to other modes of transportation.
+
+
+
+
 > Comparing all factors to show demographics of who is likely to purchase a bike
 ![output 1](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/be4b8839-f7ac-4845-8ffe-9c852142b4ec)
 
@@ -33,7 +58,10 @@ From the chart provided above we can see that those whose income is between 40,0
 
 
 ## Challenges 
-> Limited numeric variables to use for comparisons to make more accurate insights
+1.Limited numeric variables to use for comparisons to make more accurate insights.
+
+2. This dataset differed from previous ones we had worked with. One significant issue was the limited amount of information available for analysis, as we only had data pertaining to the specific column - purchased bike. As a result, all the charts produced seemed to exhibit a similar and unimpressive appearance.
+
 
 ## Future Goals
-We would create a model to predict which demographic is more likely to purchase a bike
+If we have more time, our future goal is to focus on developing and refining models that can accurately predict which demographic is more likely to purchase a bike. 
