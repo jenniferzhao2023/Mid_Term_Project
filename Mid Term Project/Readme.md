@@ -25,13 +25,15 @@ From the chart provided above we can see that those whose income is between 40,0
 
 > A moderate positive linear relationship between the ages of those who purchased a bike and the number of children
 
-> Finally we can see that gender does not have a considerable effect on whether a bike is purchased or not
+> We can see that gender does not have a considerable effect on whether a bike is purchased or not
 ![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/27b0df93-1707-4f33-b66c-128a9d32e3bb)
 
+> Finally a dashboard that shows insight to which demographics is likely to purchase a bike
+![image](https://github.com/Jagunmolu-dev/LIGHTHOUSELABS/assets/67484584/90ce0f0b-9e3d-4b8e-a5b8-c42153e7ca14)
 
 
 ## Challenges 
-(discuss challenges you faced in the project)
+> Limited numeric variables to use for comparisons to make more accurate insights
 
 ## Future Goals
-(what would you do if you had more time?)
+We would create a model to predict which demographic is more likely to purchase a bike
